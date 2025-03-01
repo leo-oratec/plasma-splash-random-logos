@@ -1,0 +1,21 @@
+{
+    "KPackageStructure": "Plasma/Splash",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "Leo_Oratec"
+            }
+        ],
+        "Category": "",
+        "Description": "A splash screen with a random style logo.",
+        "Description[zh_CN]": "一个带有随机样式徽标的欢迎屏幕。",
+        "Id": "random.logos",
+        "License": "GNU GPL v3+",
+        "Name": "Random Logos",
+        "Name[zh_CN]": "随机徽标",
+        "Website": ""
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;;",
+    "X-Plasma-APIVersion": "2"
+}

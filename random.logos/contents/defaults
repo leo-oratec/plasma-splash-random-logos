@@ -1,0 +1,14 @@
+[kdeglobals][KDE]
+widgetStyle=breeze
+
+[kdeglobals][General]
+ColorScheme=BreezeLight
+
+[kdeglobals][Icons]
+Theme=breeze
+
+[plasmarc][Theme]
+name=default
+
+[kcminputrc][Mouse]
+cursorTheme=breeze_cursors
