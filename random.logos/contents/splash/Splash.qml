@@ -23,13 +23,14 @@ Image {
                 "images/logos/blue-archive.png",
                 "images/logos/evangelion.png",
                 "images/logos/genshin.png",
+                "images/logos/550w.png"
                 "images/logos/k-on.png",
                 "images/logos/osulazer.png",
                 "images/logos/ensemblestarsmusic.png",
                 "images/logos/bocchitherock.png",
                 "images/logos/breakingbad.png",
                 "images/logos/error.png")
-                [Math.floor(Math.random()*9)]
+                [Math.floor(Math.random()*10)]
             anchors.centerIn: parent
         }
         Rectangle {
