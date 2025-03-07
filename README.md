@@ -5,7 +5,6 @@ Original theme created by [YANEKYUK](https://store.kde.org/p/1222244). <br>
 
 ## Items Used <br>
 * [Evangelion Title Card Generator](https://github.com/itorr/eva-title) <br>
-* [Blue Archive Title Generator](https://github.com/LateDreamXD/ba-title-generator) <br>
 
 ## Installation <br>
 ```shell
