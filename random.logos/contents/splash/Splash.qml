@@ -23,7 +23,7 @@ Image {
                 "images/logos/blue-archive.png",
                 "images/logos/evangelion.png",
                 "images/logos/genshin.png",
-                "images/logos/550w.png"
+                "images/logos/550w.png",
                 "images/logos/k-on.png",
                 "images/logos/osulazer.png",
                 "images/logos/ensemblestarsmusic.png",
