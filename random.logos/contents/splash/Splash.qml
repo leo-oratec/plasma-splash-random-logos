@@ -29,8 +29,9 @@ Image {
                 "images/logos/ensemblestarsmusic.png",
                 "images/logos/bocchitherock.png",
                 "images/logos/breakingbad.png",
-                "images/logos/error.png")
-                [Math.floor(Math.random()*10)]
+                "images/logos/error.png",
+                "images/logos/yosuga-no-sora.png")
+                [Math.floor(Math.random()*11)]
             anchors.centerIn: parent
         }
         Rectangle {
