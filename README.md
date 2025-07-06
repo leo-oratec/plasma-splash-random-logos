@@ -5,6 +5,7 @@ Original theme created by [YANEKYUK](https://store.kde.org/p/1222244). <br>
 
 ## Items Used <br>
 * [Evangelion Title Card Generator](https://github.com/itorr/eva-title) <br>
+* [Logoly](https://github.com/bestony/logoly) <br>
 
 ## Installation <br>
 ```shell

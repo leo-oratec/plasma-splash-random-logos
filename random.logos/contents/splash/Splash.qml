@@ -30,8 +30,10 @@ Image {
                 "images/logos/bocchitherock.png",
                 "images/logos/breakingbad.png",
                 "images/logos/error.png",
-                "images/logos/yosuga-no-sora.png")
-                [Math.floor(Math.random()*11)]
+                "images/logos/yosuga-no-sora.png",
+                "images/logos/pxxn-hub.png",
+                "images/logos/oxxy-fans.png")
+                [Math.floor(Math.random()*13)]
             anchors.centerIn: parent
         }
         Rectangle {
