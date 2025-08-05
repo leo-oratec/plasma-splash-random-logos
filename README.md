@@ -1,3 +1,5 @@
+Other Languages (其他语言): [English](README.md), [简体中文](README_zh.md)
+
 ##  Intro <br>
 A splash screen for KDE Plasma with random style logos. <br>
 Original theme created by [YANEKYUK](https://store.kde.org/p/1222244). <br>
@@ -9,10 +11,10 @@ Original theme created by [YANEKYUK](https://store.kde.org/p/1222244). <br>
 
 ## Installation <br>
 ```shell
-git clone https://github.com/leo-oratec/plasma-splash-random-logos.git #download the code
+git clone https://github.com/leo-oratec/plasma-splash-random-logos.git #clone the repository
 sudo cp -r ./plasma-splash-random-logos/random.logos /usr/share/plasma/look-and-feel #copy it to Plasma's "look-and-feel" directory
 #enable it in systemsettings
-rm -r ./plasma-splash-random-logos #remove the code
+rm -r ./plasma-splash-random-logos #remove the repository
 ```
 
 ## Removal <br>
