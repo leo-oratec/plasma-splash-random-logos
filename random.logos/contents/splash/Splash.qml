@@ -32,14 +32,15 @@ Image {
                 "images/logos/error.png",
                 "images/logos/yosuga-no-sora.png",
                 "images/logos/pxxn-hub.png",
-                "images/logos/oxxy-fans.png")
-                [Math.floor(Math.random()*13)]
+                "images/logos/oxxy-fans.png",
+                "images/logos/persona.svg")
+            [Math.floor(Math.random()*14)]
             anchors.centerIn: parent
         }
         Rectangle {
             radius: 3
             color: "#33eeeeee"
-            anchors { 
+            anchors {
                 bottom: parent.bottom
                 bottomMargin: -36
                 horizontalCenter: parent.horizontalCenter
@@ -55,7 +56,7 @@ Image {
                 }
                 width: (parent.width / 6) * (stage - 1)
                 color: "#eeeeeeee"
-                Behavior on width { 
+                Behavior on width {
                     PropertyAnimation {
                         duration: 250
                         easing.type: Easing.InOutQuad
