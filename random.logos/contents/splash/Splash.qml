@@ -33,8 +33,9 @@ Image {
                 "images/logos/yosuga-no-sora.png",
                 "images/logos/pxxn-hub.png",
                 "images/logos/oxxy-fans.png",
-                "images/logos/persona.svg")
-            [Math.floor(Math.random()*14)]
+                "images/logos/persona.svg",
+                "images/logos/final-fantasy.svg")
+            [Math.floor(Math.random()*15)]
             anchors.centerIn: parent
         }
         Rectangle {
